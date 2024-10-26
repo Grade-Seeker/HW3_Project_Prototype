@@ -1,0 +1,33 @@
+[
+{
+  "TermYear": 2024,
+  "TermSemesiter": "Fall",
+  "CourseApartment": "ENGR",
+  "CourseNumber": 10,
+  "CreditHour": 3,
+  "Status": "P",
+  "GPA_Letter": "A-",
+  "GPA_Number": 3.7
+},
+{
+  "TermYear": 2025,
+  "TermSemesiter": "Spring",
+  "CourseApartment": "CMPE",
+  "CourseNumber": 131,
+  "CreditHour": 3,
+  "Status": "P",
+  "GPA_Letter": "A",
+  "GPA_Number": 4.0
+},
+{
+  "TermYear": 2024,
+  "TermSemesiter": "Winter",
+  "CourseApartment": "CS",
+  "CourseNumber": 146,
+  "CreditHour_Semestier": 3,
+  "CreditHour": 3,
+  "Status": "P",
+  "GPA_Letter": "B-",
+  "GPA_Number": 2.7
+}
+]
